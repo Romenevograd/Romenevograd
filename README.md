@@ -3,11 +3,13 @@
 <h1>Hi there, I'm Sergey</h1>
 <h3> Developer from Saint-P.</h3>
 </ div>
+
+📫 Reach me by [email](mailto:email-adress)
 <!--
 **Romenevograd/Romenevograd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-📫 Reach me by [email](mailto:email-adress)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
