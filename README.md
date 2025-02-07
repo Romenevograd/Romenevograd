@@ -3,8 +3,9 @@
 <h1>Hi there, I'm Sergey</h1>
 <h3> Developer from Saint-P.</h3>
 </ div>
-
+🌱 I’m currently learning Swift
 📫 Reach me by [email](mailto:email-adress)
+🌍 I speak Russian and English
 <!--
 **Romenevograd/Romenevograd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
