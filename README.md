@@ -5,9 +5,9 @@
 </ div>
 
 ### About Me
--  🌱 I’m currently learning Swift
--  📫 Reach me by [email](mailto:serjrome98@gmail.com)
--  🌍 I speak Russian and English
+- 🌱 I’m currently learning Swift
+- 📫 Reach me by [email](mailto:serjrome98@gmail.com)
+- 🌍 I speak Russian and English
 <!--
 **Romenevograd/Romenevograd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
