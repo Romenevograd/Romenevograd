@@ -3,6 +3,7 @@
 <h1>Hi there, I'm Sergey</h1>
 <h3> Developer from Saint-P.</h3>
 </ div>
+
 ### About Me
 -  🌱 I’m currently learning Swift
 -  📫 Reach me by [email](mailto:email-adress)
