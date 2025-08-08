@@ -1,11 +1,11 @@
 
 <div id="header" align="center">
 <h1>Hi there, I'm Sergey</h1>
-<h3> Developer from Saint-P.</h3>
+<h3> IOSDeveloper from Saint-P.</h3>
 </ div>
 
 ### About Me
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently developing on Swift
 - 📫 Reach me by [email](mailto:serjrome98@gmail.com)
 - 🌍 I speak Russian and English
 <!--
